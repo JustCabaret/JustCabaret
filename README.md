@@ -6,9 +6,9 @@
 
 - 📫  I am currently learning **C#** 
 
-- 👨‍💻  All of my projects are available [here](https://hugo.techlads.pt/)
+- 👨‍💻  All of my projects are available here(https://hugo.techlads.pt/)
 
-- 💬  Lets <a href="mailto:hugomiguelcabaretdasilva@gmail.com">[talk]</a>!
+- 💬  Lets <a href="mailto:hugomiguelcabaretdasilva@gmail.com"><u>talk</u></a>!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JustCabaret-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
