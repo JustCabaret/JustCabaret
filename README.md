@@ -6,7 +6,7 @@
 
 - 📫  I am currently learning **C#** 
 
-- 👨‍💻  All of my projects are available <a href="https://hugo.techlads.pt/">here</a>!
+- 👨‍💻  All of my projects are available <a href="https://hugocabaret.techlads.pt/" target="_blank">here</a>!
 
 - 💬  Lets <a href="mailto:hugomiguelcabaretdasilva@gmail.com"><u>talk</u></a>!
 
