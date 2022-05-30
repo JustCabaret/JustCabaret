@@ -1,6 +1,6 @@
 ## Hey! My name is Hugo Cabaret! Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<h4>💻 Software Developer Junior passionated about learning and discovering new things everyday</h4>
+<h4>💻 Software Developer Junior passionated about learning and discovering new things everyday.</h4>
 
 **About me**
 
