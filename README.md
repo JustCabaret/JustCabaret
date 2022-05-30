@@ -8,7 +8,7 @@
 
 - 👨‍💻  All of my projects are available [here](https://hugo.techlads.pt/)
 
-- 💬  Lets [talk](hugocabaretdasilva@gmail.com)!
+- 💬  Lets <a href="mailto:hugomiguelcabaretdasilva@gmail.com">[talk]</a>!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JustCabaret-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
