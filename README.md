@@ -1,4 +1,4 @@
-## Hey! My name is Hugo Cabaret, welcome to my profile!
+## Hey! My name is Hugo Cabaret, welcome to my profile! 👋
 
 <h4>💻 Software Developer Junior passionated about learning and discovering new things everyday.</h4>
 
