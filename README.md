@@ -8,7 +8,7 @@
 
 - 👨‍💻  All my projects are available <a href="https://hugocabaret.techladss.pt/" target="_blank">here</a>!
 
-- 💬  Lets <a href="mailto:hugomiguelcabaretdasilva@gmail.com"><u>talk</u></a>!
+- 💬  Lets <a href="mailto:hugocabaretdasilva@gmail.com"><u>talk</u></a>!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JustCabaret-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
