@@ -1,22 +1,24 @@
 ## Hey! My name is Hugo Cabaret, welcome to my profile! 👋
 
-<h4>💻 Software Developer Junior passionated about learning and discovering new things everyday.</h4>
+<h4>💻 Developer Junior passionated about learning and discovering new things everyday.</h4>
 
 **About me**
 
-- 📫  I am currently learning **C#** 
+- 📫  I am currently learning **Python** and **Web Development**!
 
-- 👨‍💻  All my projects are available <a href="https://hugocabaret.techladss.pt/" target="_blank">here</a>!
+- 👨‍💻  All my projects are available <a href="https://hugocabaret.pt/" target="_blank">here</a>!
 
 - 💬  Lets <a href="mailto:hugocabaretdasilva@gmail.com"><u>talk</u></a>!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JustCabaret-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JustCabaret-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JustCabaret-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="JustCabaret-BS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="JustCabaret-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="JustCabaret-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="JustCabaret-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="JustCabaret-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="JustCabaret-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ##
