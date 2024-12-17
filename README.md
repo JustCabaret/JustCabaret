@@ -1,6 +1,6 @@
 ## Hey! My name is Hugo Cabaret, welcome to my profile! 👋
 
-<h4>💻 Developer Junior passionated about learning and discovering new things everyday.</h4>
+<h4>💻 Developer passionated about learning and discovering new things everyday.</h4>
 
 **About me**
 
