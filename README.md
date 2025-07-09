@@ -6,8 +6,6 @@
 
 - 📫  I am currently learning **Python** and **Web Development**!
 
-- 👨‍💻  All my projects are available <a href="https://hugocabaret.pt/" target="_blank">here</a>!
-
 - 💬  Lets <a href="mailto:hugocabaretdasilva@gmail.com"><u>talk</u></a>!
 
 <div style="display: inline_block"><br>
