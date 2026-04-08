@@ -1,29 +1,32 @@
-## Hey! My name is Hugo Cabaret, welcome to my profile! 👋
-
-<h4>💻 Developer passionated about learning and discovering new things everyday.</h4>
-
-**About me**
-
-- 📫  I am currently learning **Python** and **Web Development**!
-
-- 💬  Lets <a href="mailto:hugocabaretdasilva@gmail.com"><u>talk</u></a>!
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="JustCabaret-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JustCabaret-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JustCabaret-BS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="JustCabaret-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="JustCabaret-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="JustCabaret-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="JustCabaret-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="JustCabaret-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-##
-
 <div align="center">
-  <a href="https://github.com/JustCabaret">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justcabaret&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justcabaret&layout=compact&langs_count=7&theme=dark"/>
+  <h1>Hugo Cabaret 👋</h1>
+  <p><strong>Software Engineer | .NET Developer at CGI</strong></p>
+  <p>📍 Coimbra, Portugal | 📧 <a href="mailto:hugocabaretdasilva@gmail.com">hugocabaretdasilva@gmail.com</a> | 🔗 <a href="https://linkedin.com/in/hugocabaret">LinkedIn</a></p>
 </div>
 
+---
+
+### 🚀 Professional Core
+* **Current Role:** .NET Developer at **CGI**, specializing in high-performance C# solutions and internal workflow automation.
+* **Main Expertise:** Engineering optimized C#/.NET applications and refining complex SQL queries for large-scale operational databases.
+* **Data Automation:** Proven experience in building ETL-style pipelines to reduce manual entry and increase data reliability.
+* **Education:** B.Sc. in Computer Engineering (ESTGOH) - Currently focusing on Advanced Software Architecture and Data Management.
+
+### 🛠️ Featured Technical Projects
+* **[AI Receipt Parser](https://github.com/JustCabaret/AIReceiptParser)** *(⭐ 45+ Stars)*
+    * Developed an end-to-end data pipeline using Python, OCR, and GPT-4 to transform unstructured financial data into structured SQL formats.
+* **[Sorting Algorithms Benchmark](https://github.com/JustCabaret/ArraySortingBenchmark)**
+    * Performance benchmarking tool for analyzing CPU/Memory trade-offs and energy efficiency in large datasets.
+
+### 💻 Technical Stack
+* **Languages & Frameworks:** C# (.NET, WPF), Python (Data & Automation), SQL (T-SQL), PHP.
+* **Data Management:** SQL Server Optimization, Database Design, Normalization, and ETL principles.
+* **Web:** JavaScript, Bootstrap, HTML5/CSS3.
+* **Certifications:** Cisco CCNA (Enterprise Networking, Security, and Automation).
+
+---
+
+### 💼 Experience at a Glance
+* **CGI:** Optimizing .NET systems and critical data processing workflows to increase team productivity.
+* **Full-Stack Solutions:** Managed the full SDLC for diverse client projects, architecting robust back-ends and optimized database structures.
+* **Engineering Standards:** Solidified through internships in CRM customization and ERP integration, applying OOP and Agile methodologies to deliver scalable software.
